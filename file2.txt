@@ -1,4 +1,4 @@
-este es otro archivo
+este es el mismo archivo, pero en otra rama.
 
 file 2, linea 1
 
@@ -10,4 +10,9 @@ linea 5
 
 linea 6
 
+<<<<<<< HEAD
 linea de prueba para ver si se pierde
+=======
+
+desde este punto se agrega una linea en el branch c001
+>>>>>>> c001
