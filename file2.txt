@@ -1,4 +1,4 @@
-este es otro archivo
+este es el mismo archivo, pero en otra rama.
 
 file 2, linea 1
 
@@ -9,3 +9,6 @@ linea 4
 linea 5
 
 linea 6
+
+
+desde este punto se agrega una linea en el branch c001
